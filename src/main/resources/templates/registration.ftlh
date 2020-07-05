@@ -2,7 +2,7 @@
 <#import "parts/common.ftlh" as c>
 
 <@c.page>
-Add new User
+    <div class="mb-1">Add new User</div>
 ${message!""}
-    <@l.login "/registration" />
+    <@l.login "/registration" true/>
 </@c.page>
