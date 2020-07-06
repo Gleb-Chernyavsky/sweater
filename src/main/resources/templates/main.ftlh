@@ -28,7 +28,7 @@
                         <label class="custom-file-label" for="customFile">Choose file</label>
                     </div>
                 </div>
-                <div class="form-group">
+                    <div class="form-group">
                     <button type="submit" class ="btn btn-primary">Добавить</button>
                 </div>
             </form>
